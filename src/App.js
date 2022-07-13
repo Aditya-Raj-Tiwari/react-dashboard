@@ -3,7 +3,7 @@ import './App.css'
 
 const App = () => {
   return (
-    <div className="underline text-5xl">App</div>
+    <div className="underline text-5xl ">App</div>
   )
 }
 
